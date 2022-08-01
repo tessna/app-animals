@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app-animals/static/css/main.d676746c.css",
+    "main.js": "/app-animals/static/js/main.819bfc1d.js",
+    "index.html": "/app-animals/index.html",
+    "main.d676746c.css.map": "/app-animals/static/css/main.d676746c.css.map",
+    "main.819bfc1d.js.map": "/app-animals/static/js/main.819bfc1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d676746c.css",
+    "static/js/main.819bfc1d.js"
+  ]
+}

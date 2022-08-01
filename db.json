@@ -1,0 +1,104 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "nom": "Antilope cervicapre",
+      "classe": "0",
+      "genre": "Antilope",
+      "nomScientifique": "Antilope cervicapra",
+      "pays": "Inde , Népal",
+      "régime": "Herbivore ruminant",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2021/09/fiche-animale-monde-animal-antilope-cervicapre-antilope-cervicapra-1024x683.jpg"
+    },
+    {
+      "id": 2,
+      "nom": "Boeuf musqué",
+      "classe": "0",
+      "genre": "Ovibos",
+      "nomScientifique": "Ovibos moschatus",
+      "pays": "Canada , Groenland",
+      "régime": "Herbivore",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2021/06/fiche-animale-monde-animal-boeuf-musque.jpg"
+    },
+    {
+      "id": 3,
+      "nom": "Tigre",
+      "classe": "0",
+      "genre": "Panthera",
+      "nomScientifique": "Panthera tigris",
+      "pays": "Asie",
+      "régime": "Carnivore",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-tigre-1024x576.jpg"
+    },
+    {
+      "id": 4,
+      "nom": "Siamang",
+      "classe": "0",
+      "genre": "Symphalangus",
+      "nomScientifique": "Symphalangus syndactylus",
+      "pays": "Indonésie, Malaisie, Thailande",
+      "régime": "Omnivore, Frugivore et Folivore",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-siamang-.jpg"
+    },
+    {
+      "id": 5,
+      "nom": "Python vert",
+      "classe": "1",
+      "genre": "Morelia",
+      "nomScientifique": "Morelia viridis",
+      "pays": "Indonésie , Australie",
+      "régime": "Carnivore carnassier",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2021/09/fiche-animale-monde-animal-animaux-python-vert-arboricole-1024x576.jpg"
+    },
+    {
+      "id": 6,
+      "nom": "Tortue géante",
+      "classe": "1",
+      "genre": "Chelonoidis",
+      "nomScientifique": "Chelonoidis nigra",
+      "pays": "Amérique du sud :Galapagos",
+      "régime": "Herbivore et frugivore",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-tortue-geante-des-galapagos-1-678x381.jpg"
+    },
+    {
+      "id": 7,
+      "nom": "Taucan toco",
+      "classe": "2",
+      "genre": "Ramphastos",
+      "nomScientifique": "Ramphastos toco",
+      "pays": "Amérique du sud",
+      "régime": "Omnivore, insectivore/carnivore",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-toucan-toco.jpg"
+    },
+    {
+      "id": 8,
+      "nom": "Martin-pêcheur d’Europe",
+      "classe": "2",
+      "genre": "Alcedo",
+      "nomScientifique": "Alcedo atthis",
+      "pays": "Algérie , Albanie , Europe",
+      "régime": "Piscivore",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-martin-pecheur-d-europe-678x381.jpg"
+    },
+    {
+      "id": 9,
+      "nom": "Crapaud rouge",
+      "classe": "3",
+      "genre": "Dyscophus",
+      "nomScientifique": "Dyscophus antongilii",
+      "pays": "Madagascar",
+      "régime": "Insectivore",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-crapaud-rouge-de-madagascar-678x381.jpg"
+    },
+    {
+      "id": 10,
+      "nom": "Salamandre maculée",
+      "classe": "3",
+      "genre": "Dyscophus",
+      "nomScientifique": "Ambystoma",
+      "pays": "Amérique du nord",
+      "régime": "Insectivore",
+      "image": "https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-salamandre-macul%C3%A9e-678x381.jpg"
+    }
+  ]
+}
